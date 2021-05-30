@@ -1,8 +1,9 @@
 
 
 
-**Younes Belouche**
-Hi, my name is Younes Belouche, I am 23 years old, a Software engineer, I love to build high-quality products.
+# Younes Belouche
+
+Hi, my name is Younes Belouche, I am 23 years old, a Software engineer, I love to build high-quality products, I can't pass a day without learning something new.
 
 - 🔭 I’m currently working on my final year project, a computer-vision related project.
 - 🌱 I’m currently learning more and more about software.
@@ -10,15 +11,6 @@ Hi, my name is Younes Belouche, I am 23 years old, a Software engineer, I love t
 - 💬 Ask me about anything, if I know the anwser I will anwser, If I don't, I will look for it.
 
 
-# Younes Charfaoui [![Visited](http://hits.dwyl.com/Younes-Charfaoui/Younes-Charfaoui.svg)](http://hits.dwyl.com/Younes-Charfaoui/Younes-Charfaoui)
-
-Hey there, I am Charfaoui Younes, 23 years old, a Software Engineer 👨‍🎓 from Algeria, Author 📄 , and Speaker. 🗣
-
-I am a Google Certified Android Developer, and I am also a Github Campus Expert, Previous Developer Student Clubs Lead, and Machine Learning Passionate 👨‍🔬.
-
-I am always passionate about learning 📚 something new about new technologies, so I am a Constant Learner 🚴.
-
-I write blogposts about Android and Machine Learning ⚙️ in Medium to share my little knowledge to help others.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dombroks&show_icons=true">
