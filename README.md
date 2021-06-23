@@ -10,7 +10,7 @@ Hi, my name is Younes Belouche, I am 23 years old, a Software engineer, Freelanc
 - ⌨️ I’m currently learning more and more about software.
 - 🤖 I’m looking to collaborate on AI related projects.
 - ✍️ I write posts on medium from time to time.
-- 💬 Ask me about anything, if I know the anwser I will anwser, If I don't, I will look for it.
+- 💬 Ask me about anything, if I know the answer I will answer, if I don't, I will look for it.
 
 
 
