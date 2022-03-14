@@ -3,11 +3,9 @@
 
 # Younes Belouche
 
-Hi, my name is Younes Belouche, I am 23 years old, a Software engineer, Freelancer, love to build high-quality products. I can't pass a day without learning something new.
+Hi, my name is Younes Belouche, I am 23 years old, a Software engineer, Freelancer and a lifelong learner who loves to build high-quality products. I can't pass a day without learning something new.
 
-- 🔭 I’m currently working on a computer-vision related project.
 - 🖥️ I'm looking for a remote position.
-- ⌨️ I’m currently learning more and more about software.
 - 🤖 I’m looking to collaborate on AI related projects.
 - ✍️ I write posts on medium from time to time ( Writer on two medium publications).
 - 💬 Ask me about anything, if I know the answer I will answer, if I don't, I will look for it.
