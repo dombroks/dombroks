@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Younes Belouche</h1>
-<h3 align="center">A Software engineer, Freelancer and a lifelong learner who loves to build high-quality products. I can't pass a day without learning something new..</h3>
+<h3 align="center">A Software engineer, Freelancer and a lifelong learner who loves to build high-quality products.</h3>
 
-- 🔭 I’m currently working on **some side projects**
+- 🔭 I’m currently working on **some awesome side projects.**
 
-- 🌱 I’m currently learning **new stuff everyday**
+- 🌱 I’m currently learning **new cool stuff.**
 
-- 👯 I’m looking to collaborate on **AI projects**
+- 👯 I’m looking to collaborate on **AI projects.**
 
-- 🤝 I’m looking for help with **3D reconstruction topic**
+- 🤝 I’m looking for help with **3D reconstruction topic.**
 
 - 👨‍💻 Some of my projects are available at [https://dombroks.github.io/](https://dombroks.github.io/)
 
@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [#](#)
 
-- ⚡ Fun fact **I'm a weekend developer.**
+- ⚡ Fun fact: **I'm a weekend developer.**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
