@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Younes Belouche</h1>
-<h3 align="center">A Software engineer, Freelancer and a lifelong learner who loves to build high-quality products.</h3>
+<h3 align="center">A Software enginee and a lifelong learner who loves to build high-quality products.</h3>
 
 - 🔭 I’m currently working on **some awesome side projects.**
 
