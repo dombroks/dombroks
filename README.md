@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **3D reconstruction topic.**
 
-- 👨‍💻 Some of my projects are available at [https://dombroks.github.io/](https://dombroks.github.io/)
+- 👨‍💻 Some of my projects are available at (Soon!).
 
 - 📝 I regularly write articles on [https://medium.com/@younes_belouche](https://medium.com/@younes_belouche)
 
