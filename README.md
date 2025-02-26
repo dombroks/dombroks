@@ -7,11 +7,9 @@
 
 - 👯 I’m looking to collaborate on **AI projects.**
 
-- 🤝 I’m looking for help with **3D reconstruction topic.**
+- 👨‍💻 Some of my projects are available at [my personal website](https://dombroks.github.io/).
 
-- 👨‍💻 Some of my projects are available at (Soon!).
-
-- 📝 I regularly write articles on [https://medium.com/@younes_belouche](https://medium.com/@younes_belouche)
+- 📝 I regularly write articles on [medium](https://medium.com/@younes_belouche)
 
 - 💬 Ask me about **Anything, if I know the answer i'll tell, otherwise, i will look for it.**
 
