@@ -19,9 +19,11 @@
 
 - ⚡ Fun fact: **I'm a weekend developer.**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+## 📚 Latest Medium Articles
+
+1. [Building a REST API for a Machine Learning Model and Mobile App Integration - Part 1](https://medium.com/codex/building-a-rest-api-for-a-machine-learning-model-and-mobile-app-integration-part1-417a0d8c3df8)  
+2. [Building a REST API for a Machine Learning Model and Mobile App Integration - Part 2](https://medium.com/codex/building-a-rest-api-for-a-machine-learning-model-and-mobile-app-integration-part-2-fd40927fcdc2)  
+3. [Building a REST API for a Machine Learning Model and Mobile App Integration - Part 3](https://medium.com/codex/building-a-rest-api-for-a-machine-learning-model-and-mobile-app-integration-part-3-d2eeda72c0aa)  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"> 
@@ -39,8 +41,8 @@
  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dombroks&show_icons=true&locale=en&layout=compact" alt="dombroks" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dombroks&show_icons=true&locale=en&layout=compact" alt="dombroks" /></p> -->
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dombroks&" alt="dombroks" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dombroks&" alt="dombroks" /></p> -->
 
