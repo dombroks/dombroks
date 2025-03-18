@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [medium](https://medium.com/@younes_belouche)
 
-- 💬 Ask me about **Anything, if I know the answer i'll tell, otherwise, i will look for it.**
+- 💬 Ask me about **Anything, if I know the answer l'll tell, otherwise, I'll look for it.**
 
 - 📫 How to reach me **younesbelouche@gmail.com**
 
