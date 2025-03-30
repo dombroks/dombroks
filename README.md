@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [#](#)
 
-- ⚡ Fun fact: **I'm a weekend developer.**
+- ⚡ Fun fact: **The First Computer Bug Was Real**
 
 ## 📚 Latest Medium Articles
 
