@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [#](#)
 
-- ⚡ Fun fact: **The First Computer Bug Was Real**
+- ⚡ Fun fact: **The First Computer Bug Was A Real Bug**
 
 ## 📚 Latest Medium Articles
 
