@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Younes Belouche</h1>
 <h3 align="center">A Software engineer and a lifelong learner who loves building high-quality products.</h3>
 
-- 🔭 I’m currently working on **some awesome side projects.**
+- 🔭 I’m currently working on **a great gym app**
 
-- 🌱 I’m currently learning **new cool stuff.**
+- 🌱 I’m currently learning **more about AI and Software engineering**
 
-- 👯 I’m looking to collaborate on **AI projects.**
+- 👯 I’m looking to collaborate on **Wide impact projects**
 
 - 👨‍💻 Some of my projects are available at [my personal website](https://dombroks.github.io/).
 
@@ -14,8 +14,6 @@
 - 💬 Ask me about **Anything, if I know the answer l'll tell, otherwise, I'll look for it.**
 
 - 📫 How to reach me **younesbelouche@gmail.com**
-
-- 📄 Know about my experiences [#](#)
 
 - ⚡ Fun fact: **The First Computer Bug Was A Real Bug**
 
