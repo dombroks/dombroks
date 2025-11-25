@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Younes Belouche</h1>
-<h3 align="center">A Software engineer and a lifelong learner who loves building high-quality products.</h3>
+<h3 align="center">An Engineer and a lifelong learner who loves building high-quality products.</h3>
 
 - 🔭 I’m currently working on **a great gym app**
 
-- 🌱 I’m currently learning **more about AI and Software engineering**
+- 🌱 I’m currently learning **more about AI , Networks and Software engineering**
 
 - 👯 I’m looking to collaborate on **Wide impact projects**
 
