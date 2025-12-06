@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Younes Belouche</h1>
-<h3 align="center">An Engineer and a lifelong learner who loves building high-quality products.</h3>
+<h3 align="center">An ENGINEER and a lifelong learner who loves building high-quality products.</h3>
 
 - 🔭 I’m currently working on **a great gym app**
 
