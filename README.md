@@ -17,11 +17,6 @@
 
 - ⚡ Fun fact: **The First Computer Bug Was A Real Bug**
 
-## 📚 Latest Medium Articles
-
-1. [Building a REST API for a Machine Learning Model and Mobile App Integration - Part 1](https://medium.com/codex/building-a-rest-api-for-a-machine-learning-model-and-mobile-app-integration-part1-417a0d8c3df8)  
-2. [Building a REST API for a Machine Learning Model and Mobile App Integration - Part 2](https://medium.com/codex/building-a-rest-api-for-a-machine-learning-model-and-mobile-app-integration-part-2-fd40927fcdc2)  
-3. [Building a REST API for a Machine Learning Model and Mobile App Integration - Part 3](https://medium.com/codex/building-a-rest-api-for-a-machine-learning-model-and-mobile-app-integration-part-3-d2eeda72c0aa)  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"> 
