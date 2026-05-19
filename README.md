@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Younes Belouche</h1>
-<h3 align="center">An ENGINEER and a lifelong learner who loves building high-quality products.</h3>
+<h3 align="center">Into ENGINEERING & RESEARCH, lifelong learner and obessed with high-quality work.</h3>
 
-- 🔭 I’m currently working on **a great gym app**
+- 🔭 I’m currently working on **Many stuff*
 
 - 🌱 I’m currently learning **more about AI , Networks and Software engineering**
 
-- 👯 I’m looking to collaborate on **Wide impact projects**
+- 👯 I’m looking to collaborate on **Wide impact software projects and cybersecurity research**
 
 - 👨‍💻 Some of my projects are available at [my personal website](https://dombroks.github.io/).
 
